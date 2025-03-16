@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/repository/static/css/main.ececdc37.css",
-    "main.js": "/repository/static/js/main.91c97dc0.js",
-    "static/media/Health.png": "/repository/static/media/Health.a61dfe2e20c443220221.png",
-    "static/media/Flexcavo.png": "/repository/static/media/Flexcavo.a4b10696ce02ae3d555d.png",
-    "static/media/Meetnative.png": "/repository/static/media/Meetnative.9093bc565f5eacdaed55.png",
-    "static/media/Mobinspire.png": "/repository/static/media/Mobinspire.382a74b3f3e2447ab0d5.png",
-    "static/media/Raise.png": "/repository/static/media/Raise.eaae2b8629a947b3b642.png",
-    "static/media/ChristianResume.pdf": "/repository/static/media/ChristianResume.0cf66d732cc39c6757ec.pdf",
-    "static/media/Potsave.png": "/repository/static/media/Potsave.d7f1966937683b18a575.png",
-    "static/media/Me.webp": "/repository/static/media/Me.c06e644ce83d6dbb6b0d.webp",
-    "index.html": "/repository/index.html",
-    "main.ececdc37.css.map": "/repository/static/css/main.ececdc37.css.map",
-    "main.91c97dc0.js.map": "/repository/static/js/main.91c97dc0.js.map"
+    "main.css": "/My_Portfolio_example/static/css/main.ececdc37.css",
+    "main.js": "/My_Portfolio_example/static/js/main.3512c53f.js",
+    "static/media/Health.png": "/My_Portfolio_example/static/media/Health.a61dfe2e20c443220221.png",
+    "static/media/Flexcavo.png": "/My_Portfolio_example/static/media/Flexcavo.a4b10696ce02ae3d555d.png",
+    "static/media/Meetnative.png": "/My_Portfolio_example/static/media/Meetnative.9093bc565f5eacdaed55.png",
+    "static/media/Mobinspire.png": "/My_Portfolio_example/static/media/Mobinspire.382a74b3f3e2447ab0d5.png",
+    "static/media/Raise.png": "/My_Portfolio_example/static/media/Raise.eaae2b8629a947b3b642.png",
+    "static/media/ChristianResume.pdf": "/My_Portfolio_example/static/media/ChristianResume.0cf66d732cc39c6757ec.pdf",
+    "static/media/Potsave.png": "/My_Portfolio_example/static/media/Potsave.d7f1966937683b18a575.png",
+    "static/media/Me.webp": "/My_Portfolio_example/static/media/Me.c06e644ce83d6dbb6b0d.webp",
+    "index.html": "/My_Portfolio_example/index.html",
+    "main.ececdc37.css.map": "/My_Portfolio_example/static/css/main.ececdc37.css.map",
+    "main.3512c53f.js.map": "/My_Portfolio_example/static/js/main.3512c53f.js.map"
   },
   "entrypoints": [
     "static/css/main.ececdc37.css",
-    "static/js/main.91c97dc0.js"
+    "static/js/main.3512c53f.js"
   ]
 }
